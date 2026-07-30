@@ -1,2 +1,3 @@
-###React Native Practice Project
-#E-Commerce APP
+###React Native Practice Project###
+
+#E-Commerce APP#
