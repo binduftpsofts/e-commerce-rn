@@ -1,11 +1,11 @@
 {
   "expo": {
     "name": "microshop",
-    "slug": "microshop",
+    "slug": "microshops",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "microshop",
+    "scheme": "microshops",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "5088ab58-3d87-447d-9ef2-a36a9a11c8ed"
+      }
+    },
+    "owner": "e-commerce-rn"
   }
 }
